@@ -1,0 +1,11 @@
+{
+  "name": "ektabackend",
+  "version": "1.0.0",
+  "description": "a backend at ekta aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ekta Yadav",
+  "license": "ISC"
+}
